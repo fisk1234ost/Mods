@@ -4,9 +4,10 @@
     "<1.0.0>": "<Started making the mod>"
     "<1.0.1>": "<Added Secret for doctor r>"
     "<1.1.0>": "<Changed how powers are stored and called to increase speed>"
+    "<1.1.1>": "<fixed sourceentity null>"
   },
   "promos": {
-    "<1.12.2>-latest": "<1.1.0>",
+    "<1.12.2>-latest": "<1.1.1>",
     "<1.12.2>-recommended": "<1.1.0>"
   }
 }
