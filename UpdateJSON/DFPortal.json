@@ -3,9 +3,10 @@
   "<1.12.2>": {
     "<1.0.0>": "<Started makeing the mod>"
     "<1.0.1>": "<Removed extrackt crap>"
+    "<1.0.2>": "<Animate dirt portal texture>"
   },
   "promos": {
-    "<1.12.2>-latest": "<1.0.1>",
-    "<1.12.2>-recommended": "<1.0.1>"
+    "<1.12.2>-latest": "<1.0.2>",
+    "<1.12.2>-recommended": "<1.0.2>"
   }
 }
