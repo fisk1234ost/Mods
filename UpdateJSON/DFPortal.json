@@ -1,13 +1,13 @@
 {
   "homepage": "<homepage/download page for your mod>",
-  "<1.12.2>": {
-    "<1.0.0>": "<Started makeing the mod>"
-    "<1.0.1>": "<Removed extrackt crap>"
-    "<1.0.2>": "<Animate dirt portal texture>"
-    "<1.0.3>": "<Renamed elements>"
+  "1.12.2": {
+    "1.0.0": "Started makeing the mod"
+    "1.0.1": "Removed extrackt crap"
+    "1.0.2": "Animate dirt portal texture"
+    "1.0.3": "Renamed elements"
   },
   "promos": {
-    "<1.12.2>-latest": "<1.0.3>",
-    "<1.12.2>-recommended": "<1.0.3>"
+    "1.12.2-latest": "1.0.3",
+    "1.12.2-recommended": "1.0.3"
   }
 }
